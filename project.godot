@@ -11,7 +11,13 @@ config_version=4
 [application]
 
 config/name="memoriaMusical"
+run/main_scene="res://Node2D.tscn"
 config/icon="res://icon.png"
+
+[display]
+
+window/size/width=1200
+window/size/height=720
 
 [physics]
 
