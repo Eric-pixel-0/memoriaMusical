@@ -17,8 +17,6 @@ margin_right = 300.0
 margin_bottom = 200.0
 texture_normal = ExtResource( 3 )
 expand = true
-flip_h = true
-flip_v = true
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -30,8 +28,6 @@ margin_right = 600.0
 margin_bottom = 200.0
 texture_normal = ExtResource( 3 )
 expand = true
-flip_h = true
-flip_v = true
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -43,8 +39,6 @@ margin_right = 900.0
 margin_bottom = 200.0
 texture_normal = ExtResource( 3 )
 expand = true
-flip_h = true
-flip_v = true
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -56,8 +50,6 @@ margin_right = 1200.0
 margin_bottom = 200.0
 texture_normal = ExtResource( 3 )
 expand = true
-flip_h = true
-flip_v = true
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -69,8 +61,6 @@ margin_right = 300.0
 margin_bottom = 400.0
 texture_normal = ExtResource( 3 )
 expand = true
-flip_h = true
-flip_v = true
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -83,8 +73,6 @@ margin_right = 600.0
 margin_bottom = 400.0
 texture_normal = ExtResource( 3 )
 expand = true
-flip_h = true
-flip_v = true
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -97,8 +85,6 @@ margin_right = 900.0
 margin_bottom = 400.0
 texture_normal = ExtResource( 3 )
 expand = true
-flip_h = true
-flip_v = true
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -111,8 +97,6 @@ margin_right = 1200.0
 margin_bottom = 400.0
 texture_normal = ExtResource( 3 )
 expand = true
-flip_h = true
-flip_v = true
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -124,8 +108,6 @@ margin_right = 300.0
 margin_bottom = 600.0
 texture_normal = ExtResource( 3 )
 expand = true
-flip_h = true
-flip_v = true
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -138,8 +120,6 @@ margin_right = 600.0
 margin_bottom = 600.0
 texture_normal = ExtResource( 3 )
 expand = true
-flip_h = true
-flip_v = true
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -152,8 +132,6 @@ margin_right = 900.0
 margin_bottom = 600.0
 texture_normal = ExtResource( 3 )
 expand = true
-flip_h = true
-flip_v = true
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -166,8 +144,6 @@ margin_right = 1200.0
 margin_bottom = 600.0
 texture_normal = ExtResource( 3 )
 expand = true
-flip_h = true
-flip_v = true
 __meta__ = {
 "_edit_use_anchors_": false
 }
