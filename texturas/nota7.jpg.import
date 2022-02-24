@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/nota7.jpg-739278a4bd509db37bdbfcb519e253ff.stex"
+path="res://import/nota7.jpg-739278a4bd509db37bdbfcb519e253ff.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://texturas/nota7.jpg"
-dest_files=[ "res://.import/nota7.jpg-739278a4bd509db37bdbfcb519e253ff.stex" ]
+dest_files=[ "res://import/nota7.jpg-739278a4bd509db37bdbfcb519e253ff.stex" ]
 
 [params]
 

@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/costas baralho.jpg-c3295cc74d782a360ffae283ff343be4.stex"
+path="res://import/costas baralho.jpg-c3295cc74d782a360ffae283ff343be4.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://texturas/costas baralho.jpg"
-dest_files=[ "res://.import/costas baralho.jpg-c3295cc74d782a360ffae283ff343be4.stex" ]
+dest_files=[ "res://import/costas baralho.jpg-c3295cc74d782a360ffae283ff343be4.stex" ]
 
 [params]
 

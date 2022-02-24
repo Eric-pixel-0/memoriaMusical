@@ -2,7 +2,7 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/carta branca.jpg-ad07780783e6243bc69076352987182c.stex"
+path="res://import/carta branca.jpg-ad07780783e6243bc69076352987182c.stex"
 metadata={
 "vram_texture": false
 }
@@ -10,7 +10,7 @@ metadata={
 [deps]
 
 source_file="res://texturas/carta branca.jpg"
-dest_files=[ "res://.import/carta branca.jpg-ad07780783e6243bc69076352987182c.stex" ]
+dest_files=[ "res://import/carta branca.jpg-ad07780783e6243bc69076352987182c.stex" ]
 
 [params]
 

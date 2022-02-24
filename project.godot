@@ -10,12 +10,13 @@ config_version=4
 
 [application]
 
-config/name="Jogo"
+config/name="ericclauter@gmail.com"
 run/main_scene="res://Node2D.tscn"
 boot_splash/image="res://icon.png"
 boot_splash/fullsize=false
 boot_splash/use_filter=false
 config/icon="res://icon.png"
+config/windows_native_icon="res://ptaia.ico"
 
 [display]
 
