@@ -2,7 +2,7 @@ extends Node2D
 
 var estado = 1
 var imagens = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
-var notas = [1, 2, 3, 4, 5, 6, 7]
+var notas = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
 
 func _ready():
 	randomize()

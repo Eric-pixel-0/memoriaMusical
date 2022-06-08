@@ -18,9 +18,6 @@ margin_right = 300.0
 margin_bottom = 200.0
 texture_normal = ExtResource( 3 )
 expand = true
-__meta__ = {
-"_edit_use_anchors_": false
-}
 
 [node name="TextureButton2" type="TextureButton" parent="."]
 material = SubResource( 1 )
@@ -175,9 +172,6 @@ margin_top = 600.0
 margin_right = 660.0
 margin_bottom = 720.0
 expand = true
-__meta__ = {
-"_edit_use_anchors_": false
-}
 
 [node name="TextureRect4" type="TextureRect" parent="."]
 margin_left = 660.0
